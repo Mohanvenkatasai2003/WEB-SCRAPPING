@@ -1,5 +1,6 @@
-# WEB-SCRAPPING OF A RESTAURANT
-# Code runed in colab with python
-# B.tech (CSE-DATA-SCIENCE)
-# Kalasalingam academy of research and education 
-# U.MOHAN VENKATA SAI
+Web Scrapping 
+Code runed in colab with python 
+BTech Computer Science and Engineering 
+KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION 
+U.MOHAN VENKATA SAI
+Guided by DR.R.RAJA SUBRAMANIAN 
